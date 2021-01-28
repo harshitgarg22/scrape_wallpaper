@@ -5,4 +5,4 @@ if __name__ == "__main__":
     image_links = fetchLinks(keyword)
     download_images(image_links, keyword)
 
-    print("\n\n--------------------------------------------A program by Harshit Garg (hg1229@gmail.com)")
+    print("\n\n--------------------------------------------\nA program by Harshit Garg (hg1229@gmail.com)")
